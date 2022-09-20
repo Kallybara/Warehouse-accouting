@@ -1,0 +1,36 @@
+C:\Users\User\source\repos\Warehouse accouting\Warehouse accouting\bin\Debug\Warehouse accouting.exe.config
+C:\Users\User\source\repos\Warehouse accouting\Warehouse accouting\bin\Debug\Warehouse accouting.exe
+C:\Users\User\source\repos\Warehouse accouting\Warehouse accouting\bin\Debug\Warehouse accouting.pdb
+C:\Users\User\source\repos\Warehouse accouting\Warehouse accouting\obj\Debug\Warehouse accouting.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Warehouse accouting\Warehouse accouting\obj\Debug\Warehouse_accouting.Authorization.resources
+C:\Users\User\source\repos\Warehouse accouting\Warehouse accouting\obj\Debug\Warehouse_accouting.Properties.Resources.resources
+C:\Users\User\source\repos\Warehouse accouting\Warehouse accouting\obj\Debug\Warehouse_accouting.Registration.resources
+C:\Users\User\source\repos\Warehouse accouting\Warehouse accouting\obj\Debug\Warehouse accouting.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Warehouse accouting\Warehouse accouting\obj\Debug\Warehouse accouting.exe
+C:\Users\User\source\repos\Warehouse accouting\Warehouse accouting\obj\Debug\Warehouse accouting.pdb
+C:\Users\User\source\repos\Warehouse accouting\Warehouse accouting\bin\Debug\Database.mdf
+C:\Users\User\source\repos\Warehouse accouting\Warehouse accouting\bin\Debug\Database_log.ldf
+C:\Users\User\source\repos\Warehouse accouting\Warehouse accouting\obj\Debug\Warehouse_accouting.MainMenu.resources
+C:\Users\User\source\repos\Warehouse accouting\Warehouse accouting\obj\Debug\Warehouse_accouting.Arrival.resources
+C:\Users\User\source\repos\Warehouse accouting\Warehouse accouting\obj\Debug\Warehouse_accouting.Warehouses_show.resources
+C:\Users\User\source\repos\Warehouse accouting\Warehouse accouting\obj\Debug\Warehouse_accouting.Writeoff.resources
+C:\Users\User\source\repos\Warehouse accouting\Warehouse accouting\obj\Debug\Warehouse_accouting.MoveProducts.resources
+E:\VSProjects\Warehouse accouting\Warehouse accouting\bin\Debug\Database.mdf
+E:\VSProjects\Warehouse accouting\Warehouse accouting\bin\Debug\Database_log.ldf
+E:\VSProjects\Warehouse accouting\Warehouse accouting\bin\Debug\Warehouse accouting.exe.config
+E:\VSProjects\Warehouse accouting\Warehouse accouting\bin\Debug\Warehouse accouting.exe
+E:\VSProjects\Warehouse accouting\Warehouse accouting\bin\Debug\Warehouse accouting.pdb
+E:\VSProjects\Warehouse accouting\Warehouse accouting\obj\Debug\Warehouse accouting.csproj.AssemblyReference.cache
+E:\VSProjects\Warehouse accouting\Warehouse accouting\obj\Debug\Warehouse accouting.csproj.SuggestedBindingRedirects.cache
+E:\VSProjects\Warehouse accouting\Warehouse accouting\obj\Debug\Warehouse_accouting.Arrival.resources
+E:\VSProjects\Warehouse accouting\Warehouse accouting\obj\Debug\Warehouse_accouting.Authorization.resources
+E:\VSProjects\Warehouse accouting\Warehouse accouting\obj\Debug\Warehouse_accouting.MainMenu.resources
+E:\VSProjects\Warehouse accouting\Warehouse accouting\obj\Debug\Warehouse_accouting.MoveProducts.resources
+E:\VSProjects\Warehouse accouting\Warehouse accouting\obj\Debug\Warehouse_accouting.Properties.Resources.resources
+E:\VSProjects\Warehouse accouting\Warehouse accouting\obj\Debug\Warehouse_accouting.Registration.resources
+E:\VSProjects\Warehouse accouting\Warehouse accouting\obj\Debug\Warehouse_accouting.Warehouses_show.resources
+E:\VSProjects\Warehouse accouting\Warehouse accouting\obj\Debug\Warehouse_accouting.Writeoff.resources
+E:\VSProjects\Warehouse accouting\Warehouse accouting\obj\Debug\Warehouse accouting.csproj.GenerateResource.cache
+E:\VSProjects\Warehouse accouting\Warehouse accouting\obj\Debug\Warehouse accouting.csproj.CoreCompileInputs.cache
+E:\VSProjects\Warehouse accouting\Warehouse accouting\obj\Debug\Warehouse accouting.exe
+E:\VSProjects\Warehouse accouting\Warehouse accouting\obj\Debug\Warehouse accouting.pdb
